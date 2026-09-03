@@ -85,15 +85,6 @@ Key insights derived from the dashboard:
 
 These insights enabled Adidas to focus on high-performing regions and optimize inventory management.
 
----
-
-## Deployment
-The dashboard was deployed to Microsoft Fabric using the following stages:
-1. **Development Stage:** Initial version of the dashboard for internal testing.
-2. **Testing Stage:** Conducted user acceptance testing to validate performance.
-3. **Production Stage:** Published the final version for stakeholders and generated a public sharing link [here](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip).
-
-![Microsoft Fabric Deployment Pipeline](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20BI%20Fabric%20Deployment%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip)
 
 ---
 
